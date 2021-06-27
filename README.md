@@ -14,7 +14,7 @@ copilot --version
 
 App Runner用設定内容
 
-- Service-type:App Runner
+- Service-type:Request-Driven Web Service
 - Application Name:jaws-ug-app5
 - Service Name:jaws-ug-app5-svc
 
