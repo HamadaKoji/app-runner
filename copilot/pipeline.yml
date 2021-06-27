@@ -1,7 +1,7 @@
 # This YAML file defines the relationship and deployment ordering of your environments.
 
 # The name of the pipeline
-name: pipeline-jaws-ug-app3-app-runner
+name: pipeline-jaws-ug-app10-app-runner
 
 # The version of the schema used in this template
 version: 1
